@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Manceau</h1>
 <h3 align="center">A french IT student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanceau2" alt="armanceau2" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/armanceau2/PortfolioV4)
 
