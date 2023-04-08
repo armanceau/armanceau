@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arthur Manceau</h1>
 <h3 align="center">French IT student</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://lambent-pony-e52a9e.netlify.app/)
+- 🔭 I’m currently working on [my portfolio](https://armanceau.netlify.app/)
 
 - 🌱 I’m currently learning **C#, ReactJS, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://lambent-pony-e52a9e.netlify.app/](https://lambent-pony-e52a9e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://armanceau.netlify.app/](https://armanceau.netlify.app/)
 
 - 💬 Ask me about **Figma, JS, PHP, SQL, Java, Android, ChartJS**
 
