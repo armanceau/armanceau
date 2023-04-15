@@ -1,12 +1,12 @@
 ![Header](./github-header.png)
 <p> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" style="border-radius: 5px;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau2" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://armanceau.netlify.app/)
 
-- 🌱 I’m currently learning **C#, ReactJS, VueJS**
+- 🌱 I’m currently learning **C#, React, VueJS**
 
 - 👨‍💻 All of my projects are available at [https://armanceau.netlify.app/](https://armanceau.netlify.app/)
 
