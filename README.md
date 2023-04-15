@@ -75,24 +75,7 @@
 
 
 <!-- 03 -->
-<h4 align="left">03 - Backend Development:</h4>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-
-<!-- 04 -->
-<h4 align="left">04 - Mobile App Development:</h4>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-
-
-<!-- 05 -->
-<h4 align="left">05 - Database:</h4>
+<h4 align="left">03 - Database:</h4>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 </a> 
@@ -110,15 +93,8 @@
 </a> 
 
 
-<!-- 06 -->
-<h4 align="left">06 - Data Visualization:</h4>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a> 
-
-
-<!-- 07 -->
-<h4 align="left">07 - Devops:</h4>
+<!-- 04 -->
+<h4 align="left">04 - Devops:</h4>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </a> 
@@ -127,8 +103,8 @@
 </a> 
 
 
-<!-- 08 -->
-<h4 align="left">08 - Framework:</h4>
+<!-- 05 -->
+<h4 align="left">05 - Framework:</h4>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
 </a> 
@@ -137,15 +113,9 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 </a> 
 
-<!-- 09 -->
-<h4 align="left">09 - Testing:</h4>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-</a> 
 
-
-<!-- 10 -->
-<h4 align="left">10 - Software:</h4>
+<!-- 06 -->
+<h4 align="left">06 - Software:</h4>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> 
@@ -155,8 +125,8 @@
 </a> 
 
 
-<!-- 11 -->
-<h4 align="left">11 - Other:</h4>
+<!-- 07 -->
+<h4 align="left">07 - Other:</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
@@ -165,37 +135,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+</a> 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+</a> 
 
  
 </div>
