@@ -1,6 +1,4 @@
 ![Header](./github-header.png)
-
-<h1 align="center">Hi 👋, I'm Arthur Manceau</h1>
 <h3 align="center">French IT student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
