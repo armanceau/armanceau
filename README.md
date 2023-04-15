@@ -142,6 +142,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanceau2&show_icons=true&locale=en&layout=compact" alt="armanceau2" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanceau2&show_icons=true&locale=en" alt="armanceau2" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=armanceau2&show_icons=true&locale=en" alt="armanceau2" /></p>
 
 
