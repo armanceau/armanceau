@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arthur Manceau</h1>
 <h3 align="center">French IT student</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanceau2" alt="armanceau2" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://armanceau.netlify.app/)
 
