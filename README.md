@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://armanceau.netlify.app/](https://armanceau.netlify.app/)
 
-- 💬 Ask me about **Figma, JS, PHP, SQL, Java, Android, ChartJS**
+- 💬 Ask me about **Figma, JS, PHP, SQL, Java, Android, ChartJS, Html/css**
 
 - 📫 How to reach me **arthur.manceau1@outlook.fr**
 
-- ⚡ Fun fact **: I love monkey**
+- ⚡ Fun fact **: I love monkey 🐵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 <a href="https://dribbble.com/arrthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arrthur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
 <div>
 
