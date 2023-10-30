@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau2" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://armanceau.me/)
+- 🔭 I’m currently working on [my portfolio](https://armanceau.netlify.app)
 
 - 🌱 I’m currently learning **C#, React, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://armanceau.me/](https://armanceau.me/)
+- 👨‍💻 All of my projects are available at [https://armanceau.netlify.app/](https://armanceau.netlify.app)
 
 - 💬 Ask me about **Figma, JS, PHP, SQL, Java, Android, ChartJS, Html/css**
 
