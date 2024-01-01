@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, React, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://armanceau.netlify.app/](https://armanceau.netlify.app)
+- 👨‍💻 All of my projects are available at [armanceau.netlify.app/](https://armanceau.netlify.app)
 
 - 💬 Ask me about **Figma, JS, PHP, SQL, Java, Symfony, ChartJS, Html/css**
 
