@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [DDF](https://github.com/armanceau/DDF)
 
-- 🌱 I’m currently learning **C#, React, VueJS**
+- 🌱 I’m currently learning **React, React-Native**
 
 - 👨‍💻 All of my projects are available at [armanceau.netlify.app](https://armanceau.netlify.app)
 
-- 💬 Ask me about **Figma, JS, PHP, SQL, Java, Symfony, ChartJS, Html/css**
+- 💬 Ask me about **Figma, JS, PHP, SQL, Java, Symfony, ChartJS, C#, ASP.NET **
 
 - 📫 How to reach me **arthur.manceau1@outlook.fr**
 
