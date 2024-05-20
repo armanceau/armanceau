@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 <p> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau" /> </p>
+<img src="https://visitcount.itsvg.in/api?id=armanceau&icon=4&color=4)](https://visitcount.itsvg.in" alt="Profil wiews"/> 
 
 - 🌱 I’m currently learning **React, React-Native**
 
