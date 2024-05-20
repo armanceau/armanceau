@@ -10,11 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [armanceau.netlify.app](https://armanceau.netlify.app)
 
-- 💬 Ask me about **Figma, JS, PHP, SQL, Java, Symfony, ChartJS, C#, ASP.NET **
-
 - 📫 How to reach me **arthur.manceau1@outlook.fr**
 
-- ⚡ Fun fact **: I love monkey 🐵**
+- ⚡ Fun fact **: I love monkey 🙊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,28 +22,14 @@
 <a href="https://dribbble.com/arrthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arrthur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
-
 <div>
 
 <!-- 01 -->
-<h4 align="left">01 - Programming Languages:</h4>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a> 
-
+<h4 align="left">Languages</h4>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 <!-- 02 -->
 <h4 align="left">02 - Frontend Development:</h4>
