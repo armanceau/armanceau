@@ -41,32 +41,32 @@
 
 <!-- 03 -->
 ## Databases
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL serveur"/> 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> 
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/> 
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="SQL serveur"/> 
 
 <!-- 04 -->
 ## Design
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/> 
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"/> 
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble"/> 
 
 <!-- 05 -->
-## Design
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/> 
-
-<!-- 06 -->
 ## Other
-<img src="https://img.shields.io/badge/trello-518fe1?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
+<img src="https://img.shields.io/badge/trello-518fe1?style=flat&logo=trello&logoColor=white" alt="Trello"/> 
+<img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37" alt="Expo"/> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/> 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=armanceau&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanceau&theme=dark&hide_border=false" alt="Github Stats"/> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanceau&theme=dark&hide_border=false" alt="Github Stats"/>  -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanceau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Github Stats"/> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=armanceau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=armanceau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
