@@ -2,21 +2,17 @@
 <p> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau2" /> </p>
-
-- 🔭 I’m currently working on [DDF](https://github.com/armanceau/DDF)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau" /> </p>
 
 - 🌱 I’m currently learning **React, React-Native**
-
-- 👨‍💻 All of my projects are available at [armanceau.netlify.app](https://armanceau.netlify.app)
 
 - 📫 How to reach me **arthur.manceau1@outlook.fr**
 
 - ⚡ Fun fact **: I love monkey 🙊**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
-<a href="https://codepen.io/armanceau2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="armanceau2" height="30" width="40" /></a>
+<a href="https://codepen.io/armanceau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="armanceau" height="30" width="40" /></a>
 <a href="https://twitter.com/armanceau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armanceau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arthur-manceau-474671230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-manceau-474671230" height="30" width="40" /></a>
 <a href="https://dribbble.com/arrthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arrthur" height="30" width="40" /></a>
@@ -33,11 +29,11 @@
 
 <!-- 02 -->
 ## Frameworks
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/> 
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET"/> 
+<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white" alt="Symfony"/> 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/> 
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React native"/> 
-<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white" alt="Symfony"/> 
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/> 
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=style=flat&&logo=spring&logoColor=white" alt="Spring"/> 
 
 <!-- 03 -->
 ## Databases
@@ -67,13 +63,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=armanceau&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 </div>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanceau&show_icons=true&locale=en&layout=compact" alt="armanceau" />
-
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=armanceau&show_icons=true&locale=en" alt="armanceau" /></p>
 
 
