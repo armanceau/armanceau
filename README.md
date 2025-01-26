@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau" /> </p>
 <img src="https://wakatime.com/badge/user/018b6217-52af-4e01-ab13-6c209be50f23.svg"/>
 
-- 🌱 I’m currently learning **React, React-Native**
+- 🌱 I’m currently learning **TDD & DDD**
 
 - 📫 How to reach me **arthur.manceau1@outlook.fr**
 
