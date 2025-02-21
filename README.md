@@ -1,12 +1,14 @@
 ![Header](./github-header.png)
 <p> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau" /> </p>
-<img src="https://wakatime.com/badge/user/018b6217-52af-4e01-ab13-6c209be50f23.svg"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=armanceau2&label=Profile%20views&color=0e75b6&style=flat" alt="armanceau" />
+  <img src="https://wakatime.com/badge/user/018b6217-52af-4e01-ab13-6c209be50f23.svg" />
+  <img src="https://www.codewars.com/users/armanceau/badges/micro" alt="Micro Badge" />
+</p>
 
-- 🌱 I’m currently learning **TDD & DDD**
 
-- 📫 How to reach me **arthur.manceau1@outlook.fr**
+- 🌱 I’m currently learning **Clean architecture & TDD**
 
 - ⚡ Fun fact **: I love monkey 🙊**
 
@@ -40,18 +42,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> 
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/> 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="SQL serveur"/> 
-
-<!-- 04 -->
-## Design
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/> 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"/> 
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble"/> 
-
-<!-- 05 -->
-## Other
-<img src="https://img.shields.io/badge/trello-518fe1?style=flat&logo=trello&logoColor=white" alt="Trello"/> 
-<img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37" alt="Expo"/> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/> 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanceau&theme=dark&hide_border=false" alt="Github Stats"/>
