@@ -15,9 +15,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://codepen.io/armanceau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="armanceau" height="30" width="40" /></a>
-<a href="https://twitter.com/armanceau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armanceau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arthur-manceau-474671230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-manceau-474671230" height="30" width="40" /></a>
-<a href="https://dribbble.com/arrthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arrthur" height="30" width="40" /></a>
 </p>
 
 <div>
