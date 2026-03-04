@@ -22,24 +22,20 @@
 
 <!-- 01 -->
 ## Languages
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#"/> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP"/> 
+<img src="https://img.shields.io/badge/C%23-%231178C8?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS"/> 
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TS"/> 
 
 <!-- 02 -->
 ## Frameworks
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET"/> 
-<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white" alt="Symfony"/> 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/> 
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React native"/> 
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=style=flat&&logo=spring&logoColor=white" alt="Spring"/> 
 
 <!-- 03 -->
 ## Databases
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/> 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="SQL serveur"/> 
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgresSQL"/> 
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="SQL server"/> 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanceau&theme=dark&hide_border=false" alt="Github Stats"/>
